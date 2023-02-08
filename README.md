@@ -9,13 +9,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist webvimark/grid-bulk-actions "*"
+php composer.phar require --prefer-dist uzzielpelawak/grid-bulk-actions "*"
 ```
 
 or add
 
 ```
-"webvimark/grid-bulk-actions": "*"
+"uzzielpelawak/grid-bulk-actions": "*"
 ```
 
 to the require section of your `composer.json` file.
@@ -27,7 +27,7 @@ If input in GridView
 
 ```php
 
-use webvimark\extensions\GridBulkActions\GridBulkActions;
+use uzzielpelawak\extensions\GridBulkActions\GridBulkActions;
 
 <?php GridBulkActions::widget([
 	'gridId'=>'user-grid',

@@ -1,5 +1,5 @@
 <?php
-namespace webvimark\extensions\GridBulkActions;
+namespace uzzielpelawak\extensions\GridBulkActions;
 
 use yii\base\InvalidConfigException;
 use yii\base\Widget;

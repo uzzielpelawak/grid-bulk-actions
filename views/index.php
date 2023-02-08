@@ -1,7 +1,7 @@
 <?php
 /**
  * @var View $this
- * @var \webvimark\extensions\GridBulkActions\GridBulkActions $context
+ * @var \uzzielpelawak\extensions\GridBulkActions\GridBulkActions $context
  */
 ?>
 <?php
